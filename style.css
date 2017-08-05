@@ -50,11 +50,13 @@ article .more_info a:hover {
 article .more_info a:first-of-type {
   border-top-left-radius: 16px;
   border-bottom-left-radius: 16px;
+  padding-left: 19px;
 }
 
 article .more_info a:last-of-type {
   border-top-right-radius: 16px;
   border-bottom-right-radius: 16px;
+  padding-right: 19px;
 }
 
 
