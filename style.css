@@ -28,7 +28,7 @@ article h1 {
 	line-height: 100px;
 }
 
-article .more_info { margin: 20px 0 10px 0; }
+article .more_info { margin: 20px 0 10px -3px; }
 
 article .more_info::after { content: ''; display: block; clear: both; }
 
