@@ -2,7 +2,7 @@
 
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Molle:400i|Open+Sans');
@@ -47,7 +47,10 @@ article .more_info a:hover {
 	background-color: rgba(200,200,255,.25);
 }
 
-
+article .more_info a:first-of-type {
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
 
 
 
